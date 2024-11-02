@@ -1,0 +1,8 @@
+#mySidebar {
+    font-family: Arial, sans-serif;
+    transition: transform 0.3s ease;
+  }
+  #mySidebar h2 {
+    color: #333;
+  }
+  
