@@ -1,0 +1,22 @@
+body {
+    width: 300px;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+  }
+  
+  #productList div {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+  }
+  
+  #comparison table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  #comparison th, #comparison td {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: left;
+  }
